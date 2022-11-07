@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(95, 130, 161);
+    display: grid;
+}
+figcaption {
+    flex: auto;
+}
+.setImgLeft {
+    margin-left: 800px;
+}
+.funnyBackground {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkJGmykS7fOY6lAFLkQ2AQ8jRumeQpQZ9fCg&usqp=CAU);
+}
+.bgeTxt {
+    color: beige;
+}
+.whtTxt {
+    color: white;
+}
